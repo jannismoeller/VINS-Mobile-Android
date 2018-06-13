@@ -8,6 +8,10 @@ During tests an anomaly occured where the smartphone has completely crashed and 
 
 This Project was carried out as part of my [bachelor thesis (German)](https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/1138). It is the android port of the [VINS-Mobile](https://github.com/HKUST-Aerial-Robotics/VINS-Mobile) project of the [HKUST Aerial Robotics Group](http://uav.ust.hk/).
 
+**Videos:**\
+[Outdoor](https://youtu.be/HV1XJ2WdGtQ)\
+[Indoor](https://youtu.be/M987SGlABuc)
+
 ## Build
 
 ### Dependencies
