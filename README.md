@@ -32,7 +32,7 @@ SET(OpenCV_DIR {path}/OpenCV-android-sdk/sdk/native/jni)
 
 
 #### Boost
-Download (Boost)[https://www.boost.org/users/download/] and set the {path} in the file
+Download [Boost](https://www.boost.org/users/download/) and set the {path} in the file
 
 *VINS_Mobile_AndroidPort\app\libs\VINS-Mobile-master\VINS_ThirdPartyLib\CMakeLists.txt*
 
