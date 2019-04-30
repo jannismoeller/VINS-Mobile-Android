@@ -10,7 +10,8 @@ This Project was carried out as part of my [bachelor thesis (German)](https://ep
 
 **Videos:**\
 [Outdoor](https://youtu.be/HV1XJ2WdGtQ)\
-[Indoor](https://youtu.be/M987SGlABuc)
+[Indoor](https://youtu.be/M987SGlABuc)\
+[Checkerboard Pattern Printed](https://youtu.be/XEM3I9A3QV0)
 
 ## Build
 
