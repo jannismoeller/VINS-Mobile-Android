@@ -1,6 +1,6 @@
 # VINS-Mobile-Android
 
-### Warning: Potentially harmful code
+### ⚠️ Warning: Potentially harmful code ⚠️
 
 During tests an anomaly occured where the smartphone has completely crashed and was only recoverable by connecting it to a computer/charger. **Use at your own risk!**
 
